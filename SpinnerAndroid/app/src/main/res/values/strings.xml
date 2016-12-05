@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpinnerAndroid</string>
+    <string name="tvName">Tên nhân viên</string>
+    <string name="hinName">Nhập tên nhân viên</string>
+    <string name="tvNgayBatDauCongTac">Ngày bắt đầu đi công tác</string>
+    <string name="tvSoNgayCongTac">Số ngày công tác</string>
+    <string name="hinSoNgayCongTac">Nhập số ngày công tác</string>
+</resources>
